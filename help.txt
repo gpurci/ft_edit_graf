@@ -1,0 +1,9 @@
+**********************************************************************************************
+*Enter                                                                       ajutor          *
+*"nume"->dublu clk_dreapta                                                   creare nod      *
+*clk_stinga(pe nodul cu originea muchiei)->clk_stinga(pe nodul destinatie)   adauga o muchie *
+*Backspace->clk_stinga(clik pe nod)                                          sterge nod      *
+*clk_stinga(pe nodul ce doresti sa stergi o muchie)->m->"nume muchie"        sterge muchie   *	
+*clk_stinga(pe nodul ce doresti sa-l redenumesti)->n->"nume nou"             schimba nume    *
+*Backspace->t                                                                sterge graf     *
+**********************************************************************************************
